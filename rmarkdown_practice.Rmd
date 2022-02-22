@@ -60,4 +60,16 @@ The second line of output is printed out instead, but this means that the calcul
 
 ## **Displaying Graphs**
 
+```{r}
+ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
+```
+
+
+***
+
+
+>Thank you so much for this great assignment Professor! I had fun learning and making this.
+
+                          image: ![](path/to/smallorb.png) 
+
 
